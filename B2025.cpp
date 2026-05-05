@@ -1,3 +1,5 @@
+//打印菱形
+
 #include<iostream>
 using namespace std;
 int main(){
